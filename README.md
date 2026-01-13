@@ -6,21 +6,33 @@ The analysis is performed using Exploratory Data Analysis (EDA) techniques and d
 ________________________________________
 🎯 Objectives
 •	Analyze long-term cyclone frequency trends in India
+
 •	Compare seasonal cyclone occurrence patterns
+
 •	Study decade-wise cyclone frequency variations
+
 •	Visualize insights using Python
+
 •	Provide data-driven conclusions
 ________________________________________
 📂 Dataset Information
+
 •	Source: data.gov.in
+
 •	Time Period: 1891 – 2019
+
 •	Description: Annual and seasonal cyclone & depression frequency in India
+
 •	Format: Excel (.xlsx)
 ________________________________________
 🛠 Tools & Libraries Used
+
 •	Python
+
 •	Pandas
+
 •	Matplotlib
+
 •	Jupyter Notebook
 ________________________________________
 🔍 Analysis Steps
